@@ -1,0 +1,16 @@
+.title, p {
+    text-align: center;
+}
+
+p {
+    font-size: large;
+}
+
+.title {
+    margin-top: 250px;
+}
+
+.links {
+    margin-top: 150px;
+}
+
